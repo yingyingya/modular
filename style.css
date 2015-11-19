@@ -1,0 +1,46 @@
+.productImage1{
+	width: 10rem;
+	height: 30rem;
+	background-color:#f2f2f2;
+	padding-left: 5em;
+	position:absolute;
+    left:0px;
+    top:0px;
+    z-index:-1;
+
+
+
+}
+
+.product-title{
+	
+	font-family: 'Roboto', sans-serif;
+	font-size: 1em;
+	width: 15rem;
+	height: 50rem;
+	color: black;
+	padding-top: 30em;
+
+}
+
+ul{
+     list-style-type: none;
+}
+
+.price{
+	font-size: 1.5em;
+
+}
+
+
+a {  
+ text-decoration:none;  
+}  
+
+.onlyinREI{
+
+  position:absolute;
+  left:40px;
+  top:10px;
+  z-index:-1;
+}
